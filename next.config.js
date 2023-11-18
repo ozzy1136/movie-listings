@@ -2,7 +2,7 @@
 const nextConfig = {
   images: {
     domains: [
-      "api.themoviedb.org",
+      "image.tmdb.org",
       // add splash image domain
       "images.unsplash.com",
     ],
